@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Toko Online Kamu
+description: Website toko online seperti Shopee menggunakan GitHub Pages
+theme: null   # Tidak pakai tema Jekyll bawaan
+markdown: kramdown
+
+# Aktifkan folder assets
+include:
+  - assets
+  - pages
